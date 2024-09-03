@@ -1,0 +1,53 @@
+html {
+	font-family: Rubik;
+}
+body {
+	background-image: url(Fondito.jpg);
+	font-family: Rubik;
+}
+
+.container-fluid {
+	background-color: rgba(125, 15, 15, 1.0);
+}
+
+.deza {
+	color: white;
+}
+
+
+
+.cardi {
+	opacity: 0.7;
+	width: 500px;
+	margin: 0 auto; /* Added */
+    float: none; /* Added */
+}
+
+.card-body {
+	background-color: grey;
+
+}
+
+.btn-primary {
+	background-color: rgba(125, 15, 15, 1.0);
+	border-color: rgba(125, 15, 15, 1.0);
+}
+
+.btn-primary:hover {
+	background-color: rgba(170, 0, 0, 1.0);
+	border-color: rgba(125, 15, 15, 1.0);
+}
+
+footer {
+	text-align: center;
+	color: white;
+	font-family: Rubik;
+}
+
+#grand {
+	color: white;
+}
+
+#grand:hover {
+	color: rgba(125, 15, 15, 1.0)
+}

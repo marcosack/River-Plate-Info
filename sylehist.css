@@ -1,0 +1,62 @@
+body {
+	background-image: url(Fondito.jpg);
+	font-family: Rubik;
+}
+
+.container-fluid {
+	background-color: rgba(125, 15, 15, 1.0);
+	color: white;
+}
+
+#navtext1 {
+	color: white;
+}
+
+.nav-link {
+	color: white;
+}
+
+.navbar-text {
+	color: white;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 10px;
+	justify-items: start;
+}
+
+#titulo {
+	padding: 4px;
+	border-bottom: 3px solid rgba(128, 15, 15, 1.0);
+	width: 200px;
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	padding: 3px;
+	color: white;
+	border-bottom: 2px solid rgba(128, 15, 15, 1.0);
+	width: 600px;
+	text-align: center;
+}
+
+p {
+	color: white;
+}
+
+#listescudo {
+	color: white;
+}
+
+#deza:hover {
+	color: rgba(128, 15, 15, 1.0);
+}
+
+footer {
+	text-align: center;
+	font-family: Rubik;
+	color: white;
+}
